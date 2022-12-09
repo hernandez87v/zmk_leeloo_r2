@@ -1,6 +1,6 @@
 file_format: "1"
-id: leeloo
-name: Leeloo
+id: leeloo_rev2
+name: Leeloo v2
 type: shield
 url: https://clicketysplit.ca/pages/leeloo
 requires: [pro_micro]
@@ -9,6 +9,7 @@ features:
   - keys
   - display
   - encoder
+  - underglow
 siblings:
-  - leeloo_left
-  - leeloo_right
+  - leeloo_rev2_left
+  - leeloo_rev2_right
