@@ -1,6 +1,6 @@
 # Clickety Split | Leeloo v2
 
-![Leeloo v2](https://github.com/ClicketySplit/build-guides/blob/main/leeloo/images/gallery/Leeloo-v2-ZMK.jpg)
+![Leeloo v2](https://i.imgur.com/OcnZbt8.jpg)
 
 Keyboard Designer: [clicketysplit.ca](https://clicketysplit.ca)
 GitHub: [ClicketySplit](https://github.com/ClicketySplit)
@@ -22,7 +22,7 @@ Leeloo v2 has been designed from scratch—again.  Everything from the wiring sc
 
 # Leeloo v1
 
-![Leeloo](https://github.com/ClicketySplit/build-guides/blob/main/leeloo/images/gallery/Leeloo-v1.jpg)
+![Leeloo](https://i.imgur.com/x1ew17D.jpg)
 
 ## Features 
 * 4x6x5m Split Keyboard
